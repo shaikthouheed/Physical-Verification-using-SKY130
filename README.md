@@ -1,7 +1,7 @@
 # Physical-Verification-using-SKY130
 
 
-git init
+# git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
